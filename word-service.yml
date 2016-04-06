@@ -1,19 +1,19 @@
 ---
 spring:
   profiles: subject
-words= I,You,He,She,It
+words: I,You,He,She,It
 
 ---
 spring:
   profiles: article
-words= a,the
+words: a,the
 
 ---
 spring:
   profiles: adjective
-words= reasonable,leaky,suspicious,ordinary,unlikely
+words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
   profiles: noun
-words= boat,book,vote,seat,backpack,partition,groundhog
+words: boat,book,vote,seat,backpack,partition,groundhog
