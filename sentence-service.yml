@@ -1,2 +1,2 @@
 ---
-services: word-service
+services: subject,verb,article,adjective,noun
