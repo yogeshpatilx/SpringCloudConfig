@@ -3,7 +3,7 @@ spring:
   profiles: subject
   application:
     name: subject
-words: I,You,He,She,It
+words: Yogesh,Gundu,Boss,Don,Awesome
 
 ---
 spring:
